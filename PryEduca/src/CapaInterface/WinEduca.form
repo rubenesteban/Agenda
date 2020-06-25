@@ -51,7 +51,7 @@
       <SubComponents>
         <Menu class="javax.swing.JMenu" name="MnCrear">
           <Properties>
-            <Property name="text" type="java.lang.String" value="Estudiante"/>
+            <Property name="text" type="java.lang.String" value="Alumnos"/>
           </Properties>
           <SubComponents>
             <MenuItem class="javax.swing.JMenuItem" name="ItmEstNvo">

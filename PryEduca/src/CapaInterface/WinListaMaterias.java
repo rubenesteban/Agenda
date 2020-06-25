@@ -47,7 +47,7 @@ public class WinListaMaterias extends javax.swing.JFrame {
         });
 
         jLabel1.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel1.setText("Lista de Materias Registradas");
+        jLabel1.setText("Registro de Materias");
 
         BtnRetornar.setText("Retornar");
         BtnRetornar.addActionListener(new java.awt.event.ActionListener() {

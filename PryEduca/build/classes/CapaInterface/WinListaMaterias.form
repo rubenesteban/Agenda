@@ -61,7 +61,7 @@
     <Component class="javax.swing.JLabel" name="jLabel1">
       <Properties>
         <Property name="horizontalAlignment" type="int" value="0"/>
-        <Property name="text" type="java.lang.String" value="Lista de Materias Registradas"/>
+        <Property name="text" type="java.lang.String" value="Registro de Materias"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JButton" name="BtnRetornar">

@@ -66,7 +66,7 @@ public class WinEduca extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         setTitle("Sistema Estudiantil");
 
-        MnCrear.setText("Estudiante");
+        MnCrear.setText("Alumnos");
 
         ItmEstNvo.setText("Nuevo");
         ItmEstNvo.addActionListener(new java.awt.event.ActionListener() {
