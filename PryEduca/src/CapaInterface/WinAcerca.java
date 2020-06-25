@@ -44,10 +44,10 @@ public class WinAcerca extends javax.swing.JFrame {
         jLabel1.setText("Aplicación \"SISTEMA ESTUDIANTIL\"");
 
         jLabel2.setFont(new java.awt.Font("Verdana", 1, 12)); // NOI18N
-        jLabel2.setText("Autor: GRUPO3");
+        jLabel2.setText("Agenda en Git");
 
         jLabel3.setFont(new java.awt.Font("Verdana", 0, 12)); // NOI18N
-        jLabel3.setText("Fecha de Creacion: 21/06/2020");
+        jLabel3.setText("Fecha de Creacion: 25/06/2020");
 
         jLabel4.setFont(new java.awt.Font("Verdana", 0, 12)); // NOI18N
         jLabel4.setText("Derechos Reservados");
